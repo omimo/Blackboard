@@ -1,3 +1,4 @@
+//the test comment
 package bb.ontology;
 
 import jade.content.onto.BasicOntology;
